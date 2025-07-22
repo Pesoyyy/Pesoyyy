@@ -70,5 +70,3 @@
 - 💼 **LinkedIn**: [Yoseph Radityo](https://www.linkedin.com/in/yoseph-radityo-666a41151/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pesoyyy&label=Profile Visitor" /> </p>
-
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet"/>
