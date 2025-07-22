@@ -1,46 +1,7 @@
 
-```
-<!-- Animated Text Container -->
-```
-
-
 <p align="center">
-  <div style="
-    overflow: hidden;
-    position: relative;
-    height: 60px;
-    background: linear-gradient(90deg, #0f0c29, #302b63, #24243e);
-    border-radius: 10px;
-    margin: 20px 0;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-  ">
-    <!-- Animated Text -->
-    <div style="
-      position: absolute;
-      white-space: nowrap;
-      animation: slide 15s linear infinite;
-      font-size: 2rem;
-      font-weight: bold;
-      color: #ffffff;
-      text-shadow: 0 0 10px rgba(255,255,255,0.7);
-      font-family: 'Courier New', monospace;
-      padding: 15px 0;
-    ">
-      Hellow, I am Yoseph a Data Scientist. ✨ • Hellow, I am Yoseph a Data Scientist. ✨ • 
-    </div>
-  </div>
+  ![Pixel Banner](GIF_banner.gif)
 </p>
-
-<style>
-  @keyframes slide {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(-50%); }
-  }
-</style>
-
-
-<h1 align="center">Hello World! 👋 I'm Yoseph Radityo</h1>
-<h1 align="center">Data Scientist | Analyst | Engineer</h1>
 
 
 <p align="center">
@@ -56,30 +17,10 @@
 
 ## 🧑‍🎓 About Me
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Yoseph Radityo"
-        self.education = {
-            "degree": "Food Technology",
-            "university": "Swiss German University"
-        }
-        self.certifications = [
-            "Certified Data Scientist (Hacktiv8 Bootcamp)"
-        ]
-        self.interests = [
-            "Machine Learning", 
-            "Data Visualization",
-            "Cloud Computing"
-        ]
-        self.learning_style = "Constantly through articles, coding practice, and tutorials"
-  
-    def say_hello(self):
-        print("Open to new opportunities in Data Science, Analyst, and Engineer roles!")
-
-me = DataScientist()
-me.say_hello()
-```
+- 🎓 Graduated from Swiss German University, majoring Food Technology
+- 📜 Certified Data Scientist from Hacktiv8 Bootcamp
+- 📚 Constantly learning through articles, coding practice, and tutorials
+- 🔍 Open to new opportunities in Data Science, Analyst, and Engineer
 
 ---
 
@@ -131,3 +72,7 @@ me.say_hello()
 
 - 💌 **Email**: [yoseph.radityo@gmail.com](mailto:yoseph.radityo@gmail.com)
 - 💼 **LinkedIn**: [Yoseph Radityo](https://www.linkedin.com/in/yoseph-radityo-666a41151/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pesoyyy&label=Profile Visitor" /> </p>
+
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet"/>
