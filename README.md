@@ -64,9 +64,6 @@
 
 ---
 
-## 📬 Get In Touch
 
-- 💌 **Email**: [yoseph.radityo@gmail.com](mailto:yoseph.radityo@gmail.com)
-- 💼 **LinkedIn**: [Yoseph Radityo](https://www.linkedin.com/in/yoseph-radityo-666a41151/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pesoyyy&label=Profile Visitor" /> </p>
