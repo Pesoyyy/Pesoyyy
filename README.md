@@ -1,8 +1,4 @@
-
-<p align="center">
-  ![Pixel Banner](GIF_banner.gif)
-</p>
-
+![Pixel Banner](GIF_banner.gif)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yoseph-radityo-666a41151/">
